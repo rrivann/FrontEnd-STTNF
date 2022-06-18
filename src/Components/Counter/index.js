@@ -5,11 +5,8 @@ const Counter = () => {
   const [number, setNumber] = useState(0);
 
   useEffect(() => {
-    console.log('m');
     document.title = `H ${number}`;
   }, [number]);
-
-  console.log('r');
 
   return (
     <div>
