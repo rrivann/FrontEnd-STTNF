@@ -1,6 +1,5 @@
 {
   "name": "movie-database",
-  "homepage": "https://rrivann.github.io/FrontEnd-STTNF/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
